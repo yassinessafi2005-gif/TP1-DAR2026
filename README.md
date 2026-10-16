@@ -2,25 +2,25 @@
 
 ## act 1.1 server:
 
-![Écran d'accueil](img1.png)
+![Écran d'accueil](images/img1.png)
 
 ## act 1.1 client:
 
-![Écran d'accueil](img2.png)
+![Écran d'accueil](images/img2.png)
 
 ## act 1.2 client:
 
-![Écran d'accueil](img3.png)
+![Écran d'accueil](images/img3.png)
 
 ## act 1.2 server:
 
-![Écran d'accueil](img4.png)
+![Écran d'accueil](images/img4.png)
 
 ## act 1.3 client:
 
-![Écran d'accueil](img5.png)
+![Écran d'accueil](images/img5.png)
 
 ## act 1.3 server:
 
-![Écran d'accueil](img6.png)
+![Écran d'accueil](images/img6.png)
 
